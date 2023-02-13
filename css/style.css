@@ -7,6 +7,10 @@ body{
     background-image: url(../assets/images/bg.jpg);
 }
 
+
+title{
+    font-size: 40px;
+}
 h1{
     font-size: 30px;
     
