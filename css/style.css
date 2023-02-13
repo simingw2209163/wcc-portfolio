@@ -4,6 +4,7 @@
 body{
     font-family: Verdana, sans-serif;
     margin: 0;
+    background-image: url(../assets/images/bg.jpg);
 }
 
 h1{
