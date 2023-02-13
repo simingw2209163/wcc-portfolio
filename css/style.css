@@ -81,6 +81,21 @@ footer{
     background-image: url(../assets/images/custom-image-name.jpeg); 
 } */
 
+.flex-item a#b1{
+    background-image: url(../assets/images/aaa.png); 
+}
+
+.flex-item a#b2{
+    background-image: url(../assets/images/b2.png); 
+}
+
+.flex-item a#b3{
+    background-image: url(../assets/images/aaa.png); 
+}
+
+.flex-item a#b4{
+    background-image: url(../assets/images/b4.png); 
+}
 
 .flex-item a:hover{
     color:#bbbbbb;
